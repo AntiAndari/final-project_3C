@@ -154,7 +154,7 @@ void kursi(){
         }
         printf("\n");
     }
-    printf("Dihitung dari kiri ke kanan (0-35)");
+    printf("Dihitung dari kiri ke kanan (0-31)");
     printf("\nPilih kursi yang Anda inginkan: ");
     scanf("%d", &kursi_pilihan);
 
